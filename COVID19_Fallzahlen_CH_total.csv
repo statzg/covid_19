@@ -3336,6 +3336,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 2020-07-18,08:00,BE,,2031,,,,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html
 2020-07-18,10:00,BS,,1024,,,,956,50,https://www.gesundheit.bs.ch
 2020-07-18,10:00,SZ,,375,,,,327,24,https://www.sz.ch/public/upload/assets/47711/2020-07-20%20-%20Formularexport%20-%20R%C3%BCckreise%20aus%20Risikol%C3%A4ndern.xlsx
+2020-07-18,10:00,TG,,430,4,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 2020-07-18,14:30,ZH,,4224,24,,6,,133,https://www.zh.ch/de/gesundheit/coronavirus.html
 2020-07-19,,FR,,1297,3,1,,155,85,https://www.fr.ch/sites/default/files/2020-07/200720_statistiques_situation_COVID.xlsx
 2020-07-19,,GR,,853,1,0,0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson
@@ -3344,6 +3345,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 2020-07-19,,SH,,,,,,,,https://sh.ch/CMS/get/file/f28dda30-2dd0-4e35-a866-64d491d277c8
 2020-07-19,08:00,BE,,2041,,,,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html
 2020-07-19,10:00,SZ,,375,,,,327,24,https://www.sz.ch/public/upload/assets/47711/2020-07-20%20-%20Formularexport%20-%20R%C3%BCckreise%20aus%20Risikol%C3%A4ndern.xlsx
+2020-07-19,10:00,TG,,432,5,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 2020-07-19,14:30,ZH,,4237,24,,6,,133,https://www.zh.ch/de/gesundheit/coronavirus.html
 2020-07-20,,FR,,1304,3,1,,155,85,https://www.fr.ch/sites/default/files/2020-07/200720_statistiques_situation_COVID.xlsx
 2020-07-20,,SG,,944,,,,,39,https://www.sg.ch/tools/informationen-coronavirus.html
@@ -3353,3 +3355,4 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumu
 2020-07-20,08:00,TI,,3407,6,2,1,916,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx
 2020-07-20,09:30,SH,,101,3,0,,,7,https://sh.ch/CMS/get/file/f28dda30-2dd0-4e35-a866-64d491d277c8
 2020-07-20,10:00,SZ,,376,,,,329,24,https://www.sz.ch/public/upload/assets/47711/2020-07-20%20-%20Formularexport%20-%20R%C3%BCckreise%20aus%20Risikol%C3%A4ndern.xlsx
+2020-07-20,10:00,TG,,436,5,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
